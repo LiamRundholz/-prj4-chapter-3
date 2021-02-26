@@ -16,8 +16,7 @@ h1 {text-decoration: underline;}
     background-color: black;
     color: white;}
 
-.my-container {border: 4px dotted darkcyan;
-               padding: 3px 3px 3px 3px;
-               background-color:darkseagreen;
-
+.my-container {border: 3px solid rgb(28, 230, 230);
+               background-color:rgb(127, 236, 255);
+               margin: 20px 0px 20px 0px;
 }
