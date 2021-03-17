@@ -1,5 +1,5 @@
 
-* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+* { margin: 0; padding: 0; border: 0; font-size: 100%; } 
 
 h1 {text-decoration: underline;}
 
@@ -26,3 +26,11 @@ a {color: rgb(235, 184, 16);}
 .footer {background-color:rgb(67, 176, 226);
          margin: 0px 0px 0px 0px;
 } 
+
+.card {
+    margin: 10px 80px 10px 80px;
+}
+
+.form-group {
+    margin: 10px 80px 10px 80px;
+}
